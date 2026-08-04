@@ -21,6 +21,7 @@ Every day, I check in on these six things:
    - What will I do tomorrow?
 
 ---
+![image alt](https://github.com/sunnysarwar671-boop/learning_journey/blob/d45f5ffd7c29b7ea69b2a4b9dbbdd7a8465a6078/file_0000000099c881fa87a220f40a41633c.png)
 
 ## 🗺️ Roadmap Overview
 
