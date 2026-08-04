@@ -77,9 +77,10 @@ Every day, I check in on these six things:
   - when should I use this ?
   - when should I avoid this ?
   - I'll rate my results ; but how ?
-
+---
+![image alt](https://github.com/sunnysarwar671-boop/learning_journey/blob/aace831ff0e8ea9ac59e2582f0319ca2559fba44/file_00000000053c81fabdfe6dbc3636db8f.png)
 ---
 
 ## 📫 Connect
 
-Feel free to follow along or reach out if you're on a similar journey!
+Feel free to follow along or reach out if you're on a similar journey! My Instagram id : **link in my GitHub profile**
